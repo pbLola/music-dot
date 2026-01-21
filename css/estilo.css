@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    color: #3D3D3D;
+    background-color: #E1EDF2;
+}
+h2{
+    border-bottom: 1px solid;
+}
+figure{
+    margin: 0 0 1rem;
+    background-color: whitesmoke;
+    text-align: center;
+    color: lightgrey;
+}
+img{
+ border-style: none;
+}
